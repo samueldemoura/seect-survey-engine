@@ -1,0 +1,25 @@
+Prezado docente,
+
+Estamos lhe convidando a participar da pesquisa “Desafios do Ensino Remoto Remoto Emergencial na Paraíba durante a Pandemia do Coronavírus”, através do seguinte formulário online. Basta clicar no botão abaixo e participar (caso o formulário não abra automaticamente, você poderá copiar o link e colar no navegador).
+
+{{ PERSONALIZED_SURVEY_LINK }}
+
+Esta pesquisa é uma iniciativa da Secretaria Estadual da Educação e da Ciência e Tecnologia da Paraíba (SEECT/PB) e tem como objetivo identificar os limites e as possibilidades do ensino remoto e uso de tecnologias educacionais associadas nas escolas estaduais paraibanas.  Mais detalhes podem ser obtidos neste link: https://sites.google.com/see.pb.gov.br/pesquisaseect/info
+
+Responder ao formulário é totalmente anônimo, gratuito e não-obrigatório. A sua participação na pesquisa é livre, voluntária e seu nome e dados pessoais não serão armazenados nem divulgados em nenhuma fase da pesquisa.
+
+Este questionário é dirigido para DOCENTES da rede estadual de ensino da Paraíba. Sua resposta contribuirá para a prospecção de melhorias no âmbito do ensino híbrido a partir da visão do docente sobre as facilidades e dificuldades e desafios enfrentados durante o Ensino Remoto Emergencial (ERE), bem como sobre o acesso aos recursos disponibilizados e seu impacto na aprendizagem.
+
+Sua resposta contribuirá para melhorias no ensino a partir da visão do aluno sobre as facilidades e dificuldades vivenciadas durante o ensino remoto emergencial.
+
+A resposta ao formulário pode ser interrompida a qualquer momento, sem nenhum problema, mas sua colaboração é muito valiosa para o entendimento e melhoria do uso de tecnologia na educação escolar em nosso Estado.
+
+Agradecemos antecipadamente sua participação,
+
+Secretaria Estadual da Educação e da Ciência e Tecnologia SEECT
+Governo do Estado da Paraíba
+
+---
+
+Esta é uma mensagem automática. Por favor não responda.
+Caso precise de ajuda ou deseje mais informações, você poderá enviar um e-mail para pesquisas@see.pb.gov.br ou acessar a página no link https://sites.google.com/see.pb.gov.br/pesquisaseect/info

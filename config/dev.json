@@ -1,0 +1,14 @@
+{
+  "delivery": {
+    "email": {
+      "host": "smtp.ethereal.email",
+      "isSecure": true,
+      "port": 587,
+
+      "auth": {
+        "user": "tianna.abbott84@ethereal.email",
+        "pass": ""
+      }
+    }
+  }
+}

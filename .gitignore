@@ -1,0 +1,11 @@
+/data/
+/dist/
+/logs/
+/node_modules/
+/temp/
+
+/config/*
+!/config/default.json
+!/config/dev.json
+
+/survey-engine.db

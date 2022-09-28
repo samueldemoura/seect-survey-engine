@@ -1,0 +1,21 @@
+{
+  "surveyLinks": {
+    "student": "https://docs.google.com/forms/d/e/1FAIpQLSeB4ngAT49bnheiTESuU-mRHsfb-QJF8raigrZsW6qcyvU3gA/viewform?usp=pp_url&entry.507496447=PERSON_IDENTIFIER_TOKEN",
+    "teacher": "https://docs.google.com/forms/d/e/1FAIpQLScWv-XdvAEs62WNCXeXWZaWW4ryYmkcdwnkY5pd_q2nF2gbdg/viewform?usp=pp_url&entry.1235466015=PERSON_IDENTIFIER_TOKEN",
+    "familyMember": "https://docs.google.com/forms/d/e/1FAIpQLSfYH-vKfmmxf_KbhBn6E3sxxPXT9T5uFVFY3sDwlHNukYVEDQ/viewform?usp=pp_url&entry.538972642=PERSON_IDENTIFIER_TOKEN"
+  },
+
+  "responseSheetIds": {
+    "student": "1hfP0VlEd4fU7IwAeQcO-F_fSRC4Q4YHIh2nQ77v2yJ0",
+    "teacher": "1bsRGjj_YfVxQZ7GdPLd7ECerKphipmNLJoUU_O-nqN8",
+    "familyMember": "1C21kQ09oXjnruDVYxSu4sglLv9OSDzSbyXfa_Fhicd4"
+  },
+
+  "deliveryThrottling": {
+    "minDeliveriesPerDay": 500,
+    "maxDeliveriesPerDay": 2000,
+    "warmupDurationInMinutes": 60
+  },
+
+  "googleAuth": null
+}
